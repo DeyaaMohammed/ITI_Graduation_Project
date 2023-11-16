@@ -57,8 +57,8 @@ As part of this project, I focused on the following key aspects:
 
 ### 📊 Reporting
 - Generated test reports in both CSV and HTML formats using:
- - Non-GUI Mode (CMD).
- - JMeter GUI Mode.
+  - Non-GUI Mode (CMD).
+  - JMeter GUI Mode.
 
 ## Directory Structure
 The repository is organized as follows:
