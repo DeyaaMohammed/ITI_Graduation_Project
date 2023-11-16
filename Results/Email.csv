@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691181859837,7332,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-1,text,true,,184,0,8,8,null,0,0,0
+1691181860838,7213,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-2,text,true,,184,0,8,8,null,0,0,0
+1691181861835,7246,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-3,text,true,,182,0,8,8,null,0,0,0
+1691181862836,7379,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-4,text,true,,184,0,7,7,null,0,0,0
+1691181863828,7099,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-5,text,true,,184,0,6,6,null,0,0,0
+1691181864830,6990,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-6,text,true,,184,0,5,5,null,0,0,0
+1691181865829,6981,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-7,text,true,,182,0,4,4,null,0,0,0
+1691181866831,6952,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-8,text,true,,184,0,3,3,null,0,0,0
+1691181867830,7336,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-9,text,true,,182,0,2,2,null,0,0,0
+1691181868832,6909,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 1-10,text,true,,184,0,1,1,null,0,0,0
+1691182217774,11813,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 10-2,text,true,,182,0,10,103,null,0,0,0
+1691182217297,12543,SMTP Email Test,500,"432 4.3.2 Concurrent connections limit exceeded. Visit https://aka.ms/concurrent_sending for more information. [Hostname=GV1P193MB2117.EURP193.PROD.OUTLOOK.COM]
+",TC11: Email Testing 10-1,text,false,,182,0,9,102,null,0,0,0
+1691182218726,11339,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 10-3,text,true,,180,0,8,100,null,0,0,0
+1691182219709,11606,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 10-4,text,true,,182,0,7,97,null,0,0,0
+1691182221710,11132,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 10-6,text,true,,182,0,6,93,null,0,0,0
+1691182223709,9763,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 10-8,text,true,,184,0,5,92,null,0,0,0
+1691182224708,8790,SMTP Email Test,500,"432 4.3.2 Concurrent connections limit exceeded. Visit https://aka.ms/concurrent_sending for more information. [Hostname=GV1P193MB2117.EURP193.PROD.OUTLOOK.COM]
+",TC11: Email Testing 10-9,text,false,,184,0,4,91,null,0,0,0
+1691182225708,7988,SMTP Email Test,500,"432 4.3.2 Concurrent connections limit exceeded. Visit https://aka.ms/concurrent_sending for more information. [Hostname=GV1P193MB2117.EURP193.PROD.OUTLOOK.COM]
+",TC11: Email Testing 10-10,text,false,,184,0,3,89,null,0,0,0
+1691182222715,11019,SMTP Email Test,200,"Message successfully sent!
+",TC11: Email Testing 10-7,text,true,,184,0,2,88,null,0,0,0
+1691182220717,15474,SMTP Email Test,500,"554 5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is Suspend, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is Suspend, ShowTierUpgrade.[EndDiagnosticData] [Hostname=GV1P193MB2117.EURP193.PROD.OUTLOOK.COM]
+",TC11: Email Testing 10-5,text,false,,182,0,1,81,null,0,0,0

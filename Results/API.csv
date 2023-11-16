@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691181449948,388,GET All Users,200,OK,TC7: API Performance Test 1-1,text,true,,1752,127,2,2,https://reqres.in/api/users?page=2,388,0,296
+1691181450336,179,GET Certain User,200,OK,TC7: API Performance Test 1-1,text,true,,986,125,3,3,https://reqres.in/api/users?id=5,179,0,0
+1691181450515,155,POST User,201,Created,TC7: API Performance Test 1-1,text,true,,709,217,3,3,https://reqres.in/api/users,155,0,0
+1691181450196,474,GET All Users,200,OK,TC7: API Performance Test 1-2,text,true,,1753,127,3,3,https://reqres.in/api/users?page=2,474,0,306
+1691181450451,284,GET All Users,200,OK,TC7: API Performance Test 1-3,text,true,,1751,127,4,4,https://reqres.in/api/users?page=2,284,0,198
+1691181450670,164,PUT User Info,200,OK,TC7: API Performance Test 1-1,text,true,,699,216,4,4,https://reqres.in/api/users/2,164,0,0
+1691181450735,110,GET Certain User,200,OK,TC7: API Performance Test 1-3,text,true,,995,125,4,4,https://reqres.in/api/users?id=5,110,0,0
+1691181450670,197,GET Certain User,200,OK,TC7: API Performance Test 1-2,text,true,,994,125,4,4,https://reqres.in/api/users?id=5,197,0,0
+1691181450699,251,GET All Users,200,OK,TC7: API Performance Test 1-4,text,true,,1749,127,5,5,https://reqres.in/api/users?page=2,250,0,163
+1691181450835,149,DELETE User,204,No Content,TC7: API Performance Test 1-1,,true,,616,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181450845,152,POST User,201,Created,TC7: API Performance Test 1-3,text,true,,709,217,4,4,https://reqres.in/api/users,152,0,0
+1691181450950,83,GET Certain User,200,OK,TC7: API Performance Test 1-4,text,true,,1005,125,4,4,https://reqres.in/api/users?id=5,83,0,0
+1691181450868,212,POST User,201,Created,TC7: API Performance Test 1-2,text,true,,711,217,4,4,https://reqres.in/api/users,212,0,0
+1691181450998,176,PUT User Info,200,OK,TC7: API Performance Test 1-3,text,true,,699,216,4,4,https://reqres.in/api/users/2,176,0,0
+1691181451033,154,POST User,201,Created,TC7: API Performance Test 1-4,text,true,,713,217,4,4,https://reqres.in/api/users,154,0,0
+1691181450941,315,GET All Users,200,OK,TC7: API Performance Test 1-5,text,true,,1744,127,5,5,https://reqres.in/api/users?page=2,315,0,198
+1691181451080,222,PUT User Info,200,OK,TC7: API Performance Test 1-2,text,true,,707,216,5,5,https://reqres.in/api/users/2,222,0,0
+1691181451175,147,DELETE User,204,No Content,TC7: API Performance Test 1-3,,true,,620,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181451187,145,PUT User Info,200,OK,TC7: API Performance Test 1-4,text,true,,701,216,4,4,https://reqres.in/api/users/2,145,0,0
+1691181451257,102,GET Certain User,200,OK,TC7: API Performance Test 1-5,text,true,,995,125,4,4,https://reqres.in/api/users?id=5,102,0,0
+1691181451201,263,GET All Users,200,OK,TC7: API Performance Test 1-6,text,true,,1747,127,5,5,https://reqres.in/api/users?page=2,263,0,177
+1691181451332,145,DELETE User,204,No Content,TC7: API Performance Test 1-4,,true,,616,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181451302,202,DELETE User,204,No Content,TC7: API Performance Test 1-2,,true,,614,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181451359,147,POST User,201,Created,TC7: API Performance Test 1-5,text,true,,717,217,3,3,https://reqres.in/api/users,147,0,0
+1691181451464,87,GET Certain User,200,OK,TC7: API Performance Test 1-6,text,true,,999,125,3,3,https://reqres.in/api/users?id=5,87,0,0
+1691181451506,154,PUT User Info,200,OK,TC7: API Performance Test 1-5,text,true,,703,216,3,3,https://reqres.in/api/users/2,154,0,0
+1691181451551,146,POST User,201,Created,TC7: API Performance Test 1-6,text,true,,709,217,3,3,https://reqres.in/api/users,146,0,0
+1691181451450,278,GET All Users,200,OK,TC7: API Performance Test 1-7,text,true,,1745,127,4,4,https://reqres.in/api/users?page=2,278,0,177
+1691181451661,154,DELETE User,204,No Content,TC7: API Performance Test 1-5,,true,,610,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181451728,103,GET Certain User,200,OK,TC7: API Performance Test 1-7,text,true,,995,125,3,3,https://reqres.in/api/users?id=5,103,0,0
+1691181451697,149,PUT User Info,200,OK,TC7: API Performance Test 1-6,text,true,,701,216,3,3,https://reqres.in/api/users/2,149,0,0
+1691181451831,149,POST User,201,Created,TC7: API Performance Test 1-7,text,true,,713,217,4,4,https://reqres.in/api/users,149,0,0
+1691181451846,144,DELETE User,204,No Content,TC7: API Performance Test 1-6,,true,,612,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181451701,376,GET All Users,200,OK,TC7: API Performance Test 1-8,text,true,,1745,127,3,3,https://reqres.in/api/users?page=2,376,0,242
+1691181451980,151,PUT User Info,200,OK,TC7: API Performance Test 1-7,text,true,,697,216,3,3,https://reqres.in/api/users/2,151,0,0
+1691181451950,258,GET All Users,200,OK,TC7: API Performance Test 1-9,text,true,,1756,127,4,4,https://reqres.in/api/users?page=2,258,0,170
+1691181452078,137,GET Certain User,200,OK,TC7: API Performance Test 1-8,text,true,,999,125,4,4,https://reqres.in/api/users?id=5,137,0,0
+1691181452131,152,DELETE User,204,No Content,TC7: API Performance Test 1-7,,true,,612,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181452208,84,GET Certain User,200,OK,TC7: API Performance Test 1-9,text,true,,997,125,3,3,https://reqres.in/api/users?id=5,84,0,0
+1691181452215,166,POST User,201,Created,TC7: API Performance Test 1-8,text,true,,715,217,3,3,https://reqres.in/api/users,166,0,0
+1691181452292,159,POST User,201,Created,TC7: API Performance Test 1-9,text,true,,708,217,4,4,https://reqres.in/api/users,159,0,0
+1691181452199,353,GET All Users,200,OK,TC7: API Performance Test 1-10,text,true,,1745,127,4,4,https://reqres.in/api/users?page=2,352,0,222
+1691181452382,186,PUT User Info,200,OK,TC7: API Performance Test 1-8,text,true,,701,216,4,4,https://reqres.in/api/users/2,186,0,0
+1691181452451,153,PUT User Info,200,OK,TC7: API Performance Test 1-9,text,true,,699,216,4,4,https://reqres.in/api/users/2,153,0,0
+1691181452552,150,GET Certain User,200,OK,TC7: API Performance Test 1-10,text,true,,993,125,5,5,https://reqres.in/api/users?id=5,150,0,0
+1691181452449,295,GET All Users,200,OK,TC7: API Performance Test 1-11,text,true,,1746,127,5,5,https://reqres.in/api/users?page=2,295,0,199
+1691181452604,152,DELETE User,204,No Content,TC7: API Performance Test 1-9,,true,,618,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181452568,204,DELETE User,204,No Content,TC7: API Performance Test 1-8,,true,,620,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181452744,89,GET Certain User,200,OK,TC7: API Performance Test 1-11,text,true,,997,125,3,3,https://reqres.in/api/users?id=5,89,0,0
+1691181452703,217,POST User,201,Created,TC7: API Performance Test 1-10,text,true,,711,217,3,3,https://reqres.in/api/users,217,0,0
+1691181452833,164,POST User,201,Created,TC7: API Performance Test 1-11,text,true,,710,217,4,4,https://reqres.in/api/users,163,0,0
+1691181452920,224,PUT User Info,200,OK,TC7: API Performance Test 1-10,text,true,,697,216,4,4,https://reqres.in/api/users/2,224,0,0
+1691181452997,162,PUT User Info,200,OK,TC7: API Performance Test 1-11,text,true,,695,216,4,4,https://reqres.in/api/users/2,162,0,0
+1691181452689,481,GET All Users,200,OK,TC7: API Performance Test 1-12,text,true,,1746,127,4,4,https://reqres.in/api/users?page=2,481,0,318
+1691181452949,290,GET All Users,200,OK,TC7: API Performance Test 1-13,text,true,,1744,127,5,5,https://reqres.in/api/users?page=2,290,0,183
+1691181453240,91,GET Certain User,200,OK,TC7: API Performance Test 1-13,text,true,,995,125,5,5,https://reqres.in/api/users?id=5,91,0,0
+1691181453170,165,GET Certain User,200,OK,TC7: API Performance Test 1-12,text,true,,997,125,5,5,https://reqres.in/api/users?id=5,165,0,0
+1691181453159,180,DELETE User,204,No Content,TC7: API Performance Test 1-11,,true,,618,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181453144,233,DELETE User,204,No Content,TC7: API Performance Test 1-10,,true,,618,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181453331,149,POST User,201,Created,TC7: API Performance Test 1-13,text,true,,715,217,4,4,https://reqres.in/api/users,149,0,0
+1691181453335,220,POST User,201,Created,TC7: API Performance Test 1-12,text,true,,707,217,4,4,https://reqres.in/api/users,219,0,0
+1691181453480,142,PUT User Info,200,OK,TC7: API Performance Test 1-13,text,true,,697,216,4,4,https://reqres.in/api/users/2,142,0,0
+1691181453202,475,GET All Users,200,OK,TC7: API Performance Test 1-14,text,true,,1744,127,4,4,https://reqres.in/api/users?page=2,475,0,318
+1691181453622,151,DELETE User,204,No Content,TC7: API Performance Test 1-13,,true,,616,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181453555,222,PUT User Info,200,OK,TC7: API Performance Test 1-12,text,true,,693,216,4,4,https://reqres.in/api/users/2,222,0,0
+1691181453677,155,GET Certain User,200,OK,TC7: API Performance Test 1-14,text,true,,1013,125,4,4,https://reqres.in/api/users?id=5,155,0,0
+1691181453440,409,GET All Users,200,OK,TC7: API Performance Test 1-15,text,true,,1748,127,4,4,https://reqres.in/api/users?page=2,408,0,266
+1691181453849,105,GET Certain User,200,OK,TC7: API Performance Test 1-15,text,true,,999,125,5,5,https://reqres.in/api/users?id=5,105,0,0
+1691181453777,204,DELETE User,204,No Content,TC7: API Performance Test 1-12,,true,,618,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181453703,279,GET All Users,200,OK,TC7: API Performance Test 1-16,text,true,,1750,127,4,4,https://reqres.in/api/users?page=2,279,0,185
+1691181453832,200,POST User,201,Created,TC7: API Performance Test 1-14,text,true,,713,217,4,4,https://reqres.in/api/users,200,0,0
+1691181453982,90,GET Certain User,200,OK,TC7: API Performance Test 1-16,text,true,,1007,125,4,4,https://reqres.in/api/users?id=5,90,0,0
+1691181453954,154,POST User,201,Created,TC7: API Performance Test 1-15,text,true,,709,217,4,4,https://reqres.in/api/users,154,0,0
+1691181454072,144,POST User,201,Created,TC7: API Performance Test 1-16,text,true,,713,217,5,5,https://reqres.in/api/users,144,0,0
+1691181454032,205,PUT User Info,200,OK,TC7: API Performance Test 1-14,text,true,,697,216,5,5,https://reqres.in/api/users/2,205,0,0
+1691181454108,141,PUT User Info,200,OK,TC7: API Performance Test 1-15,text,true,,691,216,5,5,https://reqres.in/api/users/2,140,0,0
+1691181453952,313,GET All Users,200,OK,TC7: API Performance Test 1-17,text,true,,1753,127,5,5,https://reqres.in/api/users?page=2,313,0,207
+1691181454217,142,PUT User Info,200,OK,TC7: API Performance Test 1-16,text,true,,693,216,5,5,https://reqres.in/api/users/2,142,0,0
+1691181454265,107,GET Certain User,200,OK,TC7: API Performance Test 1-17,text,true,,1005,125,5,5,https://reqres.in/api/users?id=5,107,0,0
+1691181454249,170,DELETE User,204,No Content,TC7: API Performance Test 1-15,,true,,618,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181454238,213,DELETE User,204,No Content,TC7: API Performance Test 1-14,,true,,616,172,5,5,https://reqres.in/api/users/2,0,0,0
+1691181454204,255,GET All Users,200,OK,TC7: API Performance Test 1-18,text,true,,1744,127,4,4,https://reqres.in/api/users?page=2,254,0,162
+1691181454360,169,DELETE User,204,No Content,TC7: API Performance Test 1-16,,true,,612,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181454373,181,POST User,201,Created,TC7: API Performance Test 1-17,text,true,,715,217,3,3,https://reqres.in/api/users,181,0,0
+1691181454459,101,GET Certain User,200,OK,TC7: API Performance Test 1-18,text,true,,995,125,3,3,https://reqres.in/api/users?id=5,101,0,0
+1691181454555,147,PUT User Info,200,OK,TC7: API Performance Test 1-17,text,true,,693,216,4,4,https://reqres.in/api/users/2,147,0,0
+1691181454561,145,POST User,201,Created,TC7: API Performance Test 1-18,text,true,,713,217,4,4,https://reqres.in/api/users,145,0,0
+1691181454453,330,GET All Users,200,OK,TC7: API Performance Test 1-19,text,true,,1743,127,4,4,https://reqres.in/api/users?page=2,330,0,218
+1691181454706,147,PUT User Info,200,OK,TC7: API Performance Test 1-18,text,true,,699,216,4,4,https://reqres.in/api/users/2,147,0,0
+1691181454702,153,DELETE User,204,No Content,TC7: API Performance Test 1-17,,true,,612,172,4,4,https://reqres.in/api/users/2,0,0,0
+1691181454783,95,GET Certain User,200,OK,TC7: API Performance Test 1-19,text,true,,993,125,3,3,https://reqres.in/api/users?id=5,95,0,0
+1691181454702,268,GET All Users,200,OK,TC7: API Performance Test 1-20,text,true,,1750,127,3,3,https://reqres.in/api/users?page=2,268,0,176
+1691181454854,138,DELETE User,204,No Content,TC7: API Performance Test 1-18,,true,,618,172,3,3,https://reqres.in/api/users/2,0,0,0
+1691181454878,145,POST User,201,Created,TC7: API Performance Test 1-19,text,true,,709,217,2,2,https://reqres.in/api/users,145,0,0
+1691181454970,85,GET Certain User,200,OK,TC7: API Performance Test 1-20,text,true,,993,125,2,2,https://reqres.in/api/users?id=5,85,0,0
+1691181455023,152,PUT User Info,200,OK,TC7: API Performance Test 1-19,text,true,,695,216,2,2,https://reqres.in/api/users/2,152,0,0
+1691181455055,145,POST User,201,Created,TC7: API Performance Test 1-20,text,true,,713,217,2,2,https://reqres.in/api/users,145,0,0
+1691181455176,160,DELETE User,204,No Content,TC7: API Performance Test 1-19,,true,,616,172,2,2,https://reqres.in/api/users/2,0,0,0
+1691181455200,144,PUT User Info,200,OK,TC7: API Performance Test 1-20,text,true,,699,216,1,1,https://reqres.in/api/users/2,144,0,0
+1691181455345,146,DELETE User,204,No Content,TC7: API Performance Test 1-20,,true,,616,172,1,1,https://reqres.in/api/users/2,0,0,0
+1691182216667,1072,GET All Users,200,OK,TC7: API Performance Test 6-1,text,true,,1741,127,5,43,https://reqres.in/api/users?page=2,1072,0,957
+1691182217166,586,GET All Users,200,OK,TC7: API Performance Test 6-3,text,true,,1751,127,5,44,https://reqres.in/api/users?page=2,586,0,462
+1691182216991,772,GET All Users,200,OK,TC7: API Performance Test 6-2,text,true,,1747,127,5,44,https://reqres.in/api/users?page=2,772,0,640
+1691182217740,102,GET Certain User,200,OK,TC7: API Performance Test 6-1,text,true,,1003,125,5,46,https://reqres.in/api/users?id=5,102,0,0
+1691182217432,411,GET All Users,200,OK,TC7: API Performance Test 6-4,text,true,,1749,127,5,46,https://reqres.in/api/users?page=2,410,0,301
+1691182217753,104,GET Certain User,200,OK,TC7: API Performance Test 6-3,text,true,,999,125,5,46,https://reqres.in/api/users?id=5,104,0,0
+1691182217764,95,GET Certain User,200,OK,TC7: API Performance Test 6-2,text,true,,1001,125,5,46,https://reqres.in/api/users?id=5,95,0,0
+1691182217843,131,GET Certain User,200,OK,TC7: API Performance Test 6-4,text,true,,1001,125,6,47,https://reqres.in/api/users?id=5,131,0,0
+1691182217843,190,POST User,201,Created,TC7: API Performance Test 6-1,text,true,,719,217,6,51,https://reqres.in/api/users,190,0,0
+1691182217859,193,POST User,201,Created,TC7: API Performance Test 6-2,text,true,,711,217,6,51,https://reqres.in/api/users,193,0,0
+1691182217858,200,POST User,201,Created,TC7: API Performance Test 6-3,text,true,,707,217,6,52,https://reqres.in/api/users,200,0,0
+1691182217686,384,GET All Users,200,OK,TC7: API Performance Test 6-5,text,true,,1743,127,6,52,https://reqres.in/api/users?page=2,384,0,271
+1691182217975,186,POST User,201,Created,TC7: API Performance Test 6-4,text,true,,706,217,6,52,https://reqres.in/api/users,186,0,0
+1691182218034,172,PUT User Info,200,OK,TC7: API Performance Test 6-1,text,true,,693,216,6,52,https://reqres.in/api/users/2,172,0,0
+1691182218071,136,GET Certain User,200,OK,TC7: API Performance Test 6-5,text,true,,997,125,6,52,https://reqres.in/api/users?id=5,136,0,0
+1691182218052,169,PUT User Info,200,OK,TC7: API Performance Test 6-2,text,true,,701,216,7,53,https://reqres.in/api/users/2,169,0,0
+1691182218058,178,PUT User Info,200,OK,TC7: API Performance Test 6-3,text,true,,695,216,7,54,https://reqres.in/api/users/2,178,0,0
+1691182217929,363,GET All Users,200,OK,TC7: API Performance Test 6-6,text,true,,1757,127,7,58,https://reqres.in/api/users?page=2,363,0,238
+1691182218161,193,PUT User Info,200,OK,TC7: API Performance Test 6-4,text,true,,693,216,7,58,https://reqres.in/api/users/2,192,0,0
+1691182218207,166,DELETE User,204,No Content,TC7: API Performance Test 6-1,,true,,608,172,7,58,https://reqres.in/api/users/2,0,0,0
+1691182218221,159,DELETE User,204,No Content,TC7: API Performance Test 6-2,,true,,614,172,6,57,https://reqres.in/api/users/2,0,0,0
+1691182218236,149,DELETE User,204,No Content,TC7: API Performance Test 6-3,,true,,616,172,5,56,https://reqres.in/api/users/2,0,0,0
+1691182218208,186,POST User,201,Created,TC7: API Performance Test 6-5,text,true,,709,217,4,55,https://reqres.in/api/users,186,0,0
+1691182218293,133,GET Certain User,200,OK,TC7: API Performance Test 6-6,text,true,,1001,125,5,56,https://reqres.in/api/users?id=5,132,0,0
+1691182218354,220,DELETE User,204,No Content,TC7: API Performance Test 6-4,,true,,612,172,5,62,https://reqres.in/api/users/2,0,0,0
+1691182218395,189,PUT User Info,200,OK,TC7: API Performance Test 6-5,text,true,,695,216,4,61,https://reqres.in/api/users/2,189,0,0
+1691182218426,186,POST User,201,Created,TC7: API Performance Test 6-6,text,true,,711,217,4,61,https://reqres.in/api/users,186,0,0
+1691182218232,385,GET All Users,200,OK,TC7: API Performance Test 6-7,text,true,,1745,127,4,61,https://reqres.in/api/users?page=2,385,0,263
+1691182218421,338,GET All Users,200,OK,TC7: API Performance Test 6-8,text,true,,1743,127,5,66,https://reqres.in/api/users?page=2,338,0,230
+1691182218617,148,GET Certain User,200,OK,TC7: API Performance Test 6-7,text,true,,1003,125,5,67,https://reqres.in/api/users?id=5,148,0,0
+1691182218585,212,DELETE User,204,No Content,TC7: API Performance Test 6-5,,true,,610,172,5,67,https://reqres.in/api/users/2,0,0,0
+1691182218613,193,PUT User Info,200,OK,TC7: API Performance Test 6-6,text,true,,697,216,4,66,https://reqres.in/api/users/2,193,0,0
+1691182218760,195,GET Certain User,200,OK,TC7: API Performance Test 6-8,text,true,,1001,125,5,71,https://reqres.in/api/users?id=5,195,0,0
+1691182218765,201,POST User,201,Created,TC7: API Performance Test 6-7,text,true,,707,217,5,71,https://reqres.in/api/users,201,0,0
+1691182218807,237,DELETE User,204,No Content,TC7: API Performance Test 6-6,,true,,612,172,5,72,https://reqres.in/api/users/2,0,0,0
+1691182218673,384,GET All Users,200,OK,TC7: API Performance Test 6-9,text,true,,1751,127,4,72,https://reqres.in/api/users?page=2,384,0,225
+1691182218956,233,POST User,201,Created,TC7: API Performance Test 6-8,text,true,,713,217,5,74,https://reqres.in/api/users,233,0,0
+1691182218967,228,PUT User Info,200,OK,TC7: API Performance Test 6-7,text,true,,697,216,5,75,https://reqres.in/api/users/2,228,0,0
+1691182219058,164,GET Certain User,200,OK,TC7: API Performance Test 6-9,text,true,,997,125,5,76,https://reqres.in/api/users?id=5,164,0,0
+1691182218916,396,GET All Users,200,OK,TC7: API Performance Test 6-10,text,true,,1743,127,5,77,https://reqres.in/api/users?page=2,396,0,293
+1691182219189,152,PUT User Info,200,OK,TC7: API Performance Test 6-8,text,true,,695,216,5,78,https://reqres.in/api/users/2,152,0,0
+1691182219195,166,DELETE User,204,No Content,TC7: API Performance Test 6-7,,true,,616,172,5,78,https://reqres.in/api/users/2,0,0,0
+1691182219222,151,POST User,201,Created,TC7: API Performance Test 6-9,text,true,,707,217,4,77,https://reqres.in/api/users,151,0,0
+1691182219313,99,GET Certain User,200,OK,TC7: API Performance Test 6-10,text,true,,1001,125,4,77,https://reqres.in/api/users?id=5,99,0,0
+1691182219166,306,GET All Users,200,OK,TC7: API Performance Test 6-11,text,true,,1743,127,5,81,https://reqres.in/api/users?page=2,306,0,198
+1691182219341,144,DELETE User,204,No Content,TC7: API Performance Test 6-8,,true,,616,172,5,82,https://reqres.in/api/users/2,0,0,0
+1691182219373,161,PUT User Info,200,OK,TC7: API Performance Test 6-9,text,true,,693,216,4,82,https://reqres.in/api/users/2,161,0,0
+1691182219412,143,POST User,201,Created,TC7: API Performance Test 6-10,text,true,,709,217,4,82,https://reqres.in/api/users,143,0,0
+1691182219473,90,GET Certain User,200,OK,TC7: API Performance Test 6-11,text,true,,1007,125,4,82,https://reqres.in/api/users?id=5,90,0,0
+1691182219535,150,DELETE User,204,No Content,TC7: API Performance Test 6-9,,true,,622,172,5,85,https://reqres.in/api/users/2,0,0,0
+1691182219420,275,GET All Users,200,OK,TC7: API Performance Test 6-12,text,true,,1753,127,4,84,https://reqres.in/api/users?page=2,275,0,185
+1691182219555,180,PUT User Info,200,OK,TC7: API Performance Test 6-10,text,true,,695,216,4,88,https://reqres.in/api/users/2,180,0,0
+1691182219563,172,POST User,201,Created,TC7: API Performance Test 6-11,text,true,,707,217,4,88,https://reqres.in/api/users,172,0,0
+1691182219696,105,GET Certain User,200,OK,TC7: API Performance Test 6-12,text,true,,999,125,4,88,https://reqres.in/api/users?id=5,105,0,0
+1691182219736,169,PUT User Info,200,OK,TC7: API Performance Test 6-11,text,true,,701,216,4,89,https://reqres.in/api/users/2,169,0,0
+1691182219736,169,DELETE User,204,No Content,TC7: API Performance Test 6-10,,true,,620,172,4,89,https://reqres.in/api/users/2,0,0,0
+1691182219802,206,POST User,201,Created,TC7: API Performance Test 6-12,text,true,,713,217,4,93,https://reqres.in/api/users,206,0,0
+1691182219664,385,GET All Users,200,OK,TC7: API Performance Test 6-13,text,true,,1751,127,4,93,https://reqres.in/api/users?page=2,385,0,270
+1691182219905,171,DELETE User,204,No Content,TC7: API Performance Test 6-11,,true,,622,172,4,93,https://reqres.in/api/users/2,0,0,0
+1691182220049,112,GET Certain User,200,OK,TC7: API Performance Test 6-13,text,true,,1003,125,3,93,https://reqres.in/api/users?id=5,112,0,0
+1691182220009,154,PUT User Info,200,OK,TC7: API Performance Test 6-12,text,true,,697,216,3,93,https://reqres.in/api/users/2,154,0,0
+1691182219921,323,GET All Users,200,OK,TC7: API Performance Test 6-14,text,true,,1751,127,4,98,https://reqres.in/api/users?page=2,323,0,218
+1691182220161,150,POST User,201,Created,TC7: API Performance Test 6-13,text,true,,713,217,4,98,https://reqres.in/api/users,150,0,0
+1691182220164,167,DELETE User,204,No Content,TC7: API Performance Test 6-12,,true,,614,172,4,98,https://reqres.in/api/users/2,0,0,0
+1691182220244,101,GET Certain User,200,OK,TC7: API Performance Test 6-14,text,true,,1007,125,3,97,https://reqres.in/api/users?id=5,101,0,0
+1691182220165,337,GET All Users,200,OK,TC7: API Performance Test 6-15,text,true,,1751,127,4,103,https://reqres.in/api/users?page=2,337,0,214
+1691182220312,193,PUT User Info,200,OK,TC7: API Performance Test 6-13,text,true,,697,216,4,103,https://reqres.in/api/users/2,193,0,0
+1691182220346,211,POST User,201,Created,TC7: API Performance Test 6-14,text,true,,707,217,4,104,https://reqres.in/api/users,211,0,0
+1691182220503,147,GET Certain User,200,OK,TC7: API Performance Test 6-15,text,true,,999,125,4,105,https://reqres.in/api/users?id=5,146,0,0
+1691182220506,185,DELETE User,204,No Content,TC7: API Performance Test 6-13,,true,,620,172,5,107,https://reqres.in/api/users/2,0,0,0
+1691182220557,213,PUT User Info,200,OK,TC7: API Performance Test 6-14,text,true,,695,216,4,110,https://reqres.in/api/users/2,213,0,0
+1691182220650,199,POST User,201,Created,TC7: API Performance Test 6-15,text,true,,719,217,4,110,https://reqres.in/api/users,199,0,0
+1691182220413,438,GET All Users,200,OK,TC7: API Performance Test 6-16,text,true,,1745,127,4,110,https://reqres.in/api/users?page=2,438,0,276
+1691182220851,87,GET Certain User,200,OK,TC7: API Performance Test 6-16,text,true,,995,125,4,111,https://reqres.in/api/users?id=5,87,0,0
+1691182220770,211,DELETE User,204,No Content,TC7: API Performance Test 6-14,,true,,614,172,5,112,https://reqres.in/api/users/2,0,0,0
+1691182220662,335,GET All Users,200,OK,TC7: API Performance Test 6-17,text,true,,1747,127,4,112,https://reqres.in/api/users?page=2,335,0,234
+1691182220849,155,PUT User Info,200,OK,TC7: API Performance Test 6-15,text,true,,691,216,4,113,https://reqres.in/api/users/2,155,0,0
+1691182220938,164,POST User,201,Created,TC7: API Performance Test 6-16,text,true,,714,217,4,115,https://reqres.in/api/users,164,0,0
+1691182220997,718,GET Certain User,200,OK,TC7: API Performance Test 6-17,text,true,,997,125,6,107,https://reqres.in/api/users?id=5,718,0,0
+1691182221005,782,DELETE User,204,No Content,TC7: API Performance Test 6-15,,true,,620,172,6,107,https://reqres.in/api/users/2,0,0,0
+1691182221107,688,PUT User Info,200,OK,TC7: API Performance Test 6-16,text,true,,693,216,5,106,https://reqres.in/api/users/2,688,0,0
+1691182220953,1453,GET All Users,200,OK,TC7: API Performance Test 6-18,text,true,,1747,127,5,106,https://reqres.in/api/users?page=2,1453,0,776
+1691182221717,720,POST User,201,Created,TC7: API Performance Test 6-17,text,true,,711,217,5,106,https://reqres.in/api/users,720,0,0
+1691182221202,1441,GET All Users,200,OK,TC7: API Performance Test 6-19,text,true,,1749,127,5,107,https://reqres.in/api/users?page=2,1441,0,701
+1691182221796,1154,DELETE User,204,No Content,TC7: API Performance Test 6-16,,true,,622,172,5,108,https://reqres.in/api/users/2,0,0,0
+1691182222407,551,GET Certain User,200,OK,TC7: API Performance Test 6-18,text,true,,1005,125,4,107,https://reqres.in/api/users?id=5,551,0,0
+1691182222437,593,PUT User Info,200,OK,TC7: API Performance Test 6-17,text,true,,695,216,4,107,https://reqres.in/api/users/2,593,0,0
+1691182222645,954,GET Certain User,200,OK,TC7: API Performance Test 6-19,text,true,,999,125,4,108,https://reqres.in/api/users?id=5,954,0,0
+1691182221421,2447,GET All Users,200,OK,TC7: API Performance Test 6-20,text,true,,1749,127,4,109,https://reqres.in/api/users?page=2,2432,0,700
+1691182223030,1032,DELETE User,204,No Content,TC7: API Performance Test 6-17,,true,,624,172,4,109,https://reqres.in/api/users/2,0,0,0
+1691182223600,594,POST User,201,Created,TC7: API Performance Test 6-19,text,true,,711,217,3,108,https://reqres.in/api/users,594,0,0
+1691182222958,1249,POST User,201,Created,TC7: API Performance Test 6-18,text,true,,713,217,3,108,https://reqres.in/api/users,1249,0,0
+1691182223869,406,GET Certain User,200,OK,TC7: API Performance Test 6-20,text,true,,1005,125,3,108,https://reqres.in/api/users?id=5,406,0,0
+1691182224194,546,PUT User Info,200,OK,TC7: API Performance Test 6-19,text,true,,701,216,3,110,https://reqres.in/api/users/2,546,0,0
+1691182224208,570,PUT User Info,200,OK,TC7: API Performance Test 6-18,text,true,,691,216,3,109,https://reqres.in/api/users/2,569,0,0
+1691182224276,521,POST User,201,Created,TC7: API Performance Test 6-20,text,true,,713,217,3,109,https://reqres.in/api/users,521,0,0
+1691182224741,446,DELETE User,204,No Content,TC7: API Performance Test 6-19,,true,,614,172,3,108,https://reqres.in/api/users/2,0,0,0
+1691182224778,432,DELETE User,204,No Content,TC7: API Performance Test 6-18,,true,,612,172,2,107,https://reqres.in/api/users/2,0,0,0
+1691182224797,452,PUT User Info,200,OK,TC7: API Performance Test 6-20,text,true,,691,216,1,106,https://reqres.in/api/users/2,452,0,0
+1691182225250,547,DELETE User,204,No Content,TC7: API Performance Test 6-20,,true,,612,172,1,108,https://reqres.in/api/users/2,0,0,0

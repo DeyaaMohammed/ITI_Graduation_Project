@@ -1,0 +1,182 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691181506448,834,FTP GET Text,200,OK,TC8: FTP Test 1-1,text,true,,405,0,4,4,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme1.txt,391,0,0
+1691181506683,612,FTP GET Text,200,OK,TC8: FTP Test 1-2,text,true,,405,0,4,4,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme2.txt,170,0,0
+1691181506931,622,FTP GET Text,200,OK,TC8: FTP Test 1-3,text,true,,405,0,5,5,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme3.txt,179,0,0
+1691181507185,625,FTP GET Text,200,OK,TC8: FTP Test 1-4,text,true,,405,0,6,6,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme4.txt,170,0,0
+1691181507435,628,FTP GET Text,200,OK,TC8: FTP Test 1-5,text,true,,405,0,7,7,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme5.txt,171,0,0
+1691181507282,807,FTP GET Photo,200,OK,TC8: FTP Test 1-1,,true,,20197,0,7,7,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall1.png,174,0,0
+1691181507295,816,FTP GET Photo,200,OK,TC8: FTP Test 1-2,,true,,20197,0,7,7,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall2.png,178,0,0
+1691181507685,608,FTP GET Text,200,OK,TC8: FTP Test 1-6,text,true,,405,0,8,8,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme6.txt,169,0,0
+1691181507553,809,FTP GET Photo,200,OK,TC8: FTP Test 1-3,,true,,20197,0,8,8,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall3.png,192,0,0
+1691181507931,648,FTP GET Text,200,OK,TC8: FTP Test 1-7,text,true,,405,0,9,9,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme7.txt,179,0,0
+1691181507810,799,FTP GET Photo,200,OK,TC8: FTP Test 1-4,,true,,20197,0,9,9,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall4.png,172,0,0
+1691181508183,702,FTP GET Text,200,OK,TC8: FTP Test 1-8,text,true,,405,0,10,10,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme8.txt,180,0,0
+1691181508063,833,FTP GET Photo,200,OK,TC8: FTP Test 1-5,,true,,20197,0,10,10,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall5.png,176,0,0
+1691181508432,654,FTP GET Text,200,OK,TC8: FTP Test 1-9,text,true,,405,0,11,11,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme9.txt,195,0,0
+1691181508293,889,FTP GET Photo,200,OK,TC8: FTP Test 1-6,,true,,20197,0,12,12,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall6.png,176,0,0
+1691181508684,650,FTP GET Text,200,OK,TC8: FTP Test 1-10,text,true,,405,0,12,12,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme10.txt,195,0,0
+1691181508579,857,FTP GET Photo,200,OK,TC8: FTP Test 1-7,,true,,20197,0,13,13,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall7.png,222,0,0
+1691181508932,601,FTP GET Text,200,OK,TC8: FTP Test 1-11,text,true,,405,0,13,13,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme11.txt,174,0,0
+1691181508886,823,FTP GET Photo,200,OK,TC8: FTP Test 1-8,,true,,20197,0,14,14,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall8.png,181,0,0
+1691181509181,629,FTP GET Text,200,OK,TC8: FTP Test 1-12,text,true,,405,0,14,14,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme12.txt,170,0,0
+1691181509086,831,FTP GET Photo,200,OK,TC8: FTP Test 1-9,,true,,20197,0,14,14,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall9.png,188,0,0
+1691181509430,621,FTP GET Text,200,OK,TC8: FTP Test 1-13,text,true,,405,0,15,15,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme13.txt,173,0,0
+1691181509334,801,FTP GET Photo,200,OK,TC8: FTP Test 1-10,,true,,20197,0,15,15,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall10.png,177,0,0
+1691181509682,636,FTP GET Text,200,OK,TC8: FTP Test 1-14,text,true,,405,0,16,16,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme14.txt,175,0,0
+1691181509533,825,FTP GET Photo,200,OK,TC8: FTP Test 1-11,,true,,20197,0,16,16,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall11.png,197,0,0
+1691181509932,646,FTP GET Text,200,OK,TC8: FTP Test 1-15,text,true,,405,0,17,17,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme15.txt,178,0,0
+1691181509810,846,FTP GET Photo,200,OK,TC8: FTP Test 1-12,,true,,20197,0,17,17,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall12.png,176,0,0
+1691181510182,708,FTP GET Text,200,OK,TC8: FTP Test 1-16,text,true,,405,0,18,18,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme16.txt,169,0,0
+1691181510432,804,FTP GET Text,200,OK,TC8: FTP Test 1-17,text,true,,405,0,20,20,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme17.txt,231,0,0
+1691181510681,787,FTP GET Text,200,OK,TC8: FTP Test 1-18,text,true,,405,0,20,20,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme18.txt,216,0,0
+1691181510051,1533,FTP GET Photo,200,OK,TC8: FTP Test 1-13,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall13.png,179,0,0
+1691181510931,800,FTP GET Text,200,OK,TC8: FTP Test 1-19,text,true,,405,0,20,20,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme19.txt,232,0,0
+1691181511182,806,FTP GET Text,200,OK,TC8: FTP Test 1-20,text,true,,405,0,20,20,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme20.txt,220,0,0
+1691181510319,1692,FTP GET Photo,200,OK,TC8: FTP Test 1-14,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall14.png,184,0,0
+1691181508111,4078,FTP PUT Photo,200,OK,TC8: FTP Test 1-2,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo2.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,559,0,0
+1691181510578,1689,FTP GET Photo,200,OK,TC8: FTP Test 1-15,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall15.png,227,0,0
+1691181508089,4413,FTP PUT Photo,200,OK,TC8: FTP Test 1-1,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo1.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,581,0,0
+1691181510890,1835,FTP GET Photo,200,OK,TC8: FTP Test 1-16,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall16.png,224,0,0
+1691181508362,4419,FTP PUT Photo,200,OK,TC8: FTP Test 1-3,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo3.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,489,0,0
+1691181511237,1655,FTP GET Photo,200,OK,TC8: FTP Test 1-17,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall17.png,227,0,0
+1691181508609,4402,FTP PUT Photo,200,OK,TC8: FTP Test 1-4,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo4.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,458,0,0
+1691181511468,1613,FTP GET Photo,200,OK,TC8: FTP Test 1-18,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall18.png,232,0,0
+1691181508896,4363,FTP PUT Photo,200,OK,TC8: FTP Test 1-5,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo5.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,473,0,0
+1691181511731,1652,FTP GET Photo,200,OK,TC8: FTP Test 1-19,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall19.png,224,0,0
+1691181509182,4239,FTP PUT Photo,200,OK,TC8: FTP Test 1-6,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo6.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,462,0,0
+1691181511988,1603,FTP GET Photo,200,OK,TC8: FTP Test 1-20,,true,,20197,0,20,20,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall20.png,223,0,0
+1691181509436,4191,FTP PUT Photo,200,OK,TC8: FTP Test 1-7,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo7.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,469,0,0
+1691181509709,4184,FTP PUT Photo,200,OK,TC8: FTP Test 1-8,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo8.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,463,0,0
+1691181509917,4206,FTP PUT Photo,200,OK,TC8: FTP Test 1-9,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo9.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,459,0,0
+1691181510135,4090,FTP PUT Photo,200,OK,TC8: FTP Test 1-10,,true,,0,15813,20,20,ftp://ftp.dlptest.com//input/iti-logo10.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,494,0,0
+1691181512189,2294,FTP PUT Validation,200,OK,TC8: FTP Test 1-2,,true,,15813,0,20,20,ftp://ftp.dlptest.com//input/iti-logo2.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo2.PNG,487,0,0
+1691181511584,3190,FTP PUT Photo,200,OK,TC8: FTP Test 1-13,,true,,0,15813,19,19,ftp://ftp.dlptest.com//input/iti-logo13.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,499,0,0
+1691181512502,2299,FTP PUT Validation,200,OK,TC8: FTP Test 1-1,,true,,15813,0,19,19,ftp://ftp.dlptest.com//input/iti-logo1.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo1.PNG,527,0,0
+1691181512011,3033,FTP PUT Photo,200,OK,TC8: FTP Test 1-14,,true,,0,15813,18,18,ftp://ftp.dlptest.com//input/iti-logo14.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,509,0,0
+1691181512781,2375,FTP PUT Validation,200,OK,TC8: FTP Test 1-3,,true,,15813,0,18,18,ftp://ftp.dlptest.com//input/iti-logo3.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo3.PNG,537,0,0
+1691181513011,2319,FTP PUT Validation,200,OK,TC8: FTP Test 1-4,,true,,15813,0,17,17,ftp://ftp.dlptest.com//input/iti-logo4.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo4.PNG,522,0,0
+1691181512267,3120,FTP PUT Photo,200,OK,TC8: FTP Test 1-15,,true,,0,15813,16,16,ftp://ftp.dlptest.com//input/iti-logo15.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,515,0,0
+1691181513259,2292,FTP PUT Validation,200,OK,TC8: FTP Test 1-5,,true,,15813,0,16,16,ftp://ftp.dlptest.com//input/iti-logo5.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo5.PNG,531,0,0
+1691181513421,2341,FTP PUT Validation,200,OK,TC8: FTP Test 1-6,,true,,15813,0,15,15,ftp://ftp.dlptest.com//input/iti-logo6.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo6.PNG,524,0,0
+1691181512725,3227,FTP PUT Photo,200,OK,TC8: FTP Test 1-16,,true,,0,15813,14,14,ftp://ftp.dlptest.com//input/iti-logo16.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,537,0,0
+1691181513627,2359,FTP PUT Validation,200,OK,TC8: FTP Test 1-7,,true,,15813,0,14,14,ftp://ftp.dlptest.com//input/iti-logo7.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo7.PNG,507,0,0
+1691181512893,3197,FTP PUT Photo,200,OK,TC8: FTP Test 1-17,,true,,0,15813,13,13,ftp://ftp.dlptest.com//input/iti-logo17.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,508,0,0
+1691181513893,2284,FTP PUT Validation,200,OK,TC8: FTP Test 1-8,,true,,15813,0,13,13,ftp://ftp.dlptest.com//input/iti-logo8.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo8.PNG,516,0,0
+1691181513081,3229,FTP PUT Photo,200,OK,TC8: FTP Test 1-18,,true,,0,15813,12,12,ftp://ftp.dlptest.com//input/iti-logo18.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,513,0,0
+1691181514123,2302,FTP PUT Validation,200,OK,TC8: FTP Test 1-9,,true,,15813,0,12,12,ftp://ftp.dlptest.com//input/iti-logo9.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo9.PNG,526,0,0
+1691181514225,2261,FTP PUT Validation,200,OK,TC8: FTP Test 1-10,,true,,15813,0,11,11,ftp://ftp.dlptest.com//input/iti-logo10.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo10.PNG,507,0,0
+1691181513384,3135,FTP PUT Photo,200,OK,TC8: FTP Test 1-19,,true,,0,15813,10,10,ftp://ftp.dlptest.com//input/iti-logo19.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,501,0,0
+1691181513592,2975,FTP PUT Photo,200,OK,TC8: FTP Test 1-20,,true,,0,15813,10,10,ftp://ftp.dlptest.com//input/iti-logo20.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,501,0,0
+1691181514775,2168,FTP PUT Validation,200,OK,TC8: FTP Test 1-13,,true,,15813,0,10,10,ftp://ftp.dlptest.com//input/iti-logo13.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo13.PNG,467,0,0
+1691181515044,2192,FTP PUT Validation,200,OK,TC8: FTP Test 1-14,,true,,15813,0,9,9,ftp://ftp.dlptest.com//input/iti-logo14.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo14.PNG,507,0,0
+1691181515387,2129,FTP PUT Validation,200,OK,TC8: FTP Test 1-15,,true,,15813,0,8,8,ftp://ftp.dlptest.com//input/iti-logo15.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo15.PNG,496,0,0
+1691181510656,6997,FTP PUT Photo,200,OK,TC8: FTP Test 1-12,,true,,0,15813,7,7,ftp://ftp.dlptest.com//input/iti-logo12.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,497,0,0
+1691181510359,7326,FTP PUT Photo,200,OK,TC8: FTP Test 1-11,,true,,0,15813,7,7,ftp://ftp.dlptest.com//input/iti-logo11.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,533,0,0
+1691181515952,2114,FTP PUT Validation,200,OK,TC8: FTP Test 1-16,,true,,15813,0,7,7,ftp://ftp.dlptest.com//input/iti-logo16.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo16.PNG,478,0,0
+1691181516090,2113,FTP PUT Validation,200,OK,TC8: FTP Test 1-17,,true,,15813,0,6,6,ftp://ftp.dlptest.com//input/iti-logo17.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo17.PNG,453,0,0
+1691181516310,2100,FTP PUT Validation,200,OK,TC8: FTP Test 1-18,,true,,15813,0,5,5,ftp://ftp.dlptest.com//input/iti-logo18.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo18.PNG,458,0,0
+1691181516519,2163,FTP PUT Validation,200,OK,TC8: FTP Test 1-19,,true,,15813,0,4,4,ftp://ftp.dlptest.com//input/iti-logo19.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo19.PNG,483,0,0
+1691181516567,2122,FTP PUT Validation,200,OK,TC8: FTP Test 1-20,,true,,15813,0,3,3,ftp://ftp.dlptest.com//input/iti-logo20.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo20.PNG,452,0,0
+1691181517653,2059,FTP PUT Validation,200,OK,TC8: FTP Test 1-12,,true,,15813,0,2,2,ftp://ftp.dlptest.com//input/iti-logo12.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo12.PNG,450,0,0
+1691181517685,2055,FTP PUT Validation,200,OK,TC8: FTP Test 1-11,,true,,15813,0,1,1,ftp://ftp.dlptest.com//input/iti-logo11.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo11.PNG,454,0,0
+1691182216992,684,FTP GET Text,200,OK,TC8: FTP Test 7-2,text,true,,405,0,4,39,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme2.txt,190,0,0
+1691182216675,1001,FTP GET Text,200,OK,TC8: FTP Test 7-1,text,true,,405,0,4,39,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme1.txt,456,0,0
+1691182217199,774,FTP GET Text,200,OK,TC8: FTP Test 7-3,text,true,,405,0,5,47,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme3.txt,185,0,0
+1691182217433,765,FTP GET Text,200,OK,TC8: FTP Test 7-4,text,true,,405,0,6,52,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme4.txt,224,0,0
+1691182217687,744,FTP GET Text,200,OK,TC8: FTP Test 7-5,text,true,,405,0,8,57,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme5.txt,234,0,0
+1691182217677,911,FTP GET Photo,200,OK,TC8: FTP Test 7-2,,true,,20197,0,8,61,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall2.png,229,0,0
+1691182217677,978,FTP GET Photo,200,OK,TC8: FTP Test 7-1,,true,,20197,0,8,61,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall1.png,241,0,0
+1691182217978,719,FTP GET Text,200,OK,TC8: FTP Test 7-6,text,true,,405,0,9,64,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme6.txt,208,0,0
+1691182217973,988,FTP GET Photo,200,OK,TC8: FTP Test 7-3,,true,,20197,0,10,71,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall3.png,200,0,0
+1691182218235,836,FTP GET Text,200,OK,TC8: FTP Test 7-7,text,true,,405,0,10,72,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme7.txt,199,0,0
+1691182218198,1050,FTP GET Photo,200,OK,TC8: FTP Test 7-4,,true,,20197,0,11,77,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall4.png,184,0,0
+1691182218431,841,FTP GET Text,200,OK,TC8: FTP Test 7-8,text,true,,405,0,11,77,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme8.txt,245,0,0
+1691182218432,1016,FTP GET Photo,200,OK,TC8: FTP Test 7-5,,true,,20197,0,12,79,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall5.png,232,0,0
+1691182218685,802,FTP GET Text,200,OK,TC8: FTP Test 7-9,text,true,,405,0,12,81,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme9.txt,235,0,0
+1691182218928,733,FTP GET Text,200,OK,TC8: FTP Test 7-10,text,true,,405,0,12,83,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme10.txt,260,0,0
+1691182218697,1005,FTP GET Photo,200,OK,TC8: FTP Test 7-6,,true,,20197,0,13,85,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall6.png,258,0,0
+1691182219181,717,FTP GET Text,200,OK,TC8: FTP Test 7-11,text,true,,405,0,13,89,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme11.txt,195,0,0
+1691182219071,936,FTP GET Photo,200,OK,TC8: FTP Test 7-7,,true,,20197,0,14,93,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall7.png,214,0,0
+1691182219429,726,FTP GET Text,200,OK,TC8: FTP Test 7-12,text,true,,405,0,14,93,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme12.txt,185,0,0
+1691182219273,910,FTP GET Photo,200,OK,TC8: FTP Test 7-8,,true,,20197,0,15,95,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall8.png,199,0,0
+1691182219684,747,FTP GET Text,200,OK,TC8: FTP Test 7-13,text,true,,405,0,16,100,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme13.txt,231,0,0
+1691182219487,947,FTP GET Photo,200,OK,TC8: FTP Test 7-9,,true,,20197,0,16,100,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall9.png,196,0,0
+1691182219661,1021,FTP GET Photo,200,OK,TC8: FTP Test 7-10,,true,,20197,0,17,107,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall10.png,236,0,0
+1691182219937,752,FTP GET Text,200,OK,TC8: FTP Test 7-14,text,true,,405,0,17,107,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme14.txt,207,0,0
+1691182219898,1022,FTP GET Photo,200,OK,TC8: FTP Test 7-11,,true,,20197,0,17,110,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall11.png,216,0,0
+1691182220183,823,FTP GET Text,200,OK,TC8: FTP Test 7-15,text,true,,405,0,18,113,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme15.txt,214,0,0
+1691182220155,1016,FTP GET Photo,200,OK,TC8: FTP Test 7-12,,true,,20197,0,18,113,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall12.png,205,0,0
+1691182220429,808,FTP GET Text,200,OK,TC8: FTP Test 7-16,text,true,,405,0,19,115,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme16.txt,251,0,0
+1691182220679,793,FTP GET Text,200,OK,TC8: FTP Test 7-17,text,true,,405,0,20,105,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme17.txt,226,0,0
+1691182220984,790,FTP GET Text,200,OK,TC8: FTP Test 7-18,text,true,,405,0,20,107,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme18.txt,240,0,0
+1691182221206,762,FTP GET Text,200,OK,TC8: FTP Test 7-19,text,true,,405,0,20,106,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme19.txt,222,0,0
+1691182220431,1569,FTP GET Photo,200,OK,TC8: FTP Test 7-13,,true,,20197,0,20,106,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall13.png,254,0,0
+1691182221428,752,FTP GET Text,200,OK,TC8: FTP Test 7-20,text,true,,405,0,20,106,ftp://Test.Rebex.Net//pub/example/readme.txt (Ascii)  -> C:\Material\Performance Project\Output\readme20.txt,217,0,0
+1691182218655,3804,FTP PUT Photo,200,OK,TC8: FTP Test 7-1,,true,,0,15813,20,106,ftp://ftp.dlptest.com//input/iti-logo1.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,603,0,0
+1691182218588,4039,FTP PUT Photo,200,OK,TC8: FTP Test 7-2,,true,,0,15813,20,107,ftp://ftp.dlptest.com//input/iti-logo2.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,670,0,0
+1691182220689,2070,FTP GET Photo,200,OK,TC8: FTP Test 7-14,,true,,20197,0,20,108,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall14.png,231,0,0
+1691182221237,1539,FTP GET Photo,200,OK,TC8: FTP Test 7-16,,true,,20197,0,20,108,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall16.png,217,0,0
+1691182221006,1966,FTP GET Photo,200,OK,TC8: FTP Test 7-15,,true,,20197,0,20,107,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall15.png,242,0,0
+1691182221775,1422,FTP GET Photo,200,OK,TC8: FTP Test 7-18,,true,,20197,0,20,107,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall18.png,213,0,0
+1691182221473,2311,FTP GET Photo,200,OK,TC8: FTP Test 7-17,,true,,20197,0,20,109,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall17.png,233,0,0
+1691182221969,1946,FTP GET Photo,200,OK,TC8: FTP Test 7-19,,true,,20197,0,20,109,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall19.png,215,0,0
+1691182222181,1857,FTP GET Photo,200,OK,TC8: FTP Test 7-20,,true,,20197,0,20,109,ftp://Test.Rebex.Net//pub/example/pocketftpSmall.png (Binary)  -> C:\Material\Performance Project\Output\pocketftpSmall20.png,224,0,0
+1691182222973,1538,FTP PUT Photo,500,"500 OOPS: vsf_sysutil_bind, maximum number of attempts to find a listening port exceeded
+",TC8: FTP Test 7-15,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",0,15813,20,109,ftp://ftp.dlptest.com//input/iti-logo15.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,503,0,0
+1691182220921,3786,FTP PUT Photo,200,OK,TC8: FTP Test 7-11,,true,,0,15813,20,110,ftp://ftp.dlptest.com//input/iti-logo11.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,509,0,0
+1691182222460,2294,FTP PUT Validation,200,OK,TC8: FTP Test 7-1,,true,,15813,0,20,110,ftp://ftp.dlptest.com//input/iti-logo1.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo1.PNG,495,0,0
+1691182222628,2299,FTP PUT Validation,200,OK,TC8: FTP Test 7-2,,true,,15813,0,19,109,ftp://ftp.dlptest.com//input/iti-logo2.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo2.PNG,497,0,0
+1691182218962,6840,FTP PUT Photo,200,OK,TC8: FTP Test 7-3,,true,,0,15813,18,107,ftp://ftp.dlptest.com//input/iti-logo3.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,476,0,0
+1691182219703,6657,FTP PUT Photo,200,OK,TC8: FTP Test 7-6,,true,,0,15813,18,107,ftp://ftp.dlptest.com//input/iti-logo6.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,471,0,0
+1691182219248,7559,FTP PUT Photo,200,OK,TC8: FTP Test 7-4,,true,,0,15813,18,108,ftp://ftp.dlptest.com//input/iti-logo4.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,489,0,0
+1691182224511,2298,FTP PUT Validation,550,"550 Failed to open file.
+",TC8: FTP Test 7-15,,false,"Test failed: code expected to equal /
+
+****** received  : [[[55]]]0
+
+****** comparison: [[[20]]]0
+
+/",0,0,18,108,ftp://ftp.dlptest.com//input/iti-logo15.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo15.PNG,527,0,0
+1691182219448,8009,FTP PUT Photo,200,OK,TC8: FTP Test 7-5,,true,,0,15813,17,107,ftp://ftp.dlptest.com//input/iti-logo5.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,467,0,0
+1691182224708,2864,FTP PUT Validation,200,OK,TC8: FTP Test 7-11,,true,,15813,0,17,107,ftp://ftp.dlptest.com//input/iti-logo11.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo11.PNG,492,0,0
+1691182226362,1531,FTP PUT Validation,500,"500 OOPS: vsf_sysutil_bind, maximum number of attempts to find a listening port exceeded
+",TC8: FTP Test 7-6,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",0,0,16,106,ftp://ftp.dlptest.com//input/iti-logo6.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo6.PNG,506,0,0
+1691182225803,2280,FTP PUT Validation,200,OK,TC8: FTP Test 7-3,,true,,15813,0,15,105,ftp://ftp.dlptest.com//input/iti-logo3.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo3.PNG,497,0,0
+1691182220184,8436,FTP PUT Photo,200,OK,TC8: FTP Test 7-8,,true,,0,15813,14,104,ftp://ftp.dlptest.com//input/iti-logo8.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,501,0,0
+1691182220435,8462,FTP PUT Photo,200,OK,TC8: FTP Test 7-9,,true,,0,15813,14,104,ftp://ftp.dlptest.com//input/iti-logo9.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,500,0,0
+1691182226807,2365,FTP PUT Validation,200,OK,TC8: FTP Test 7-4,,true,,15813,0,14,104,ftp://ftp.dlptest.com//input/iti-logo4.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo4.PNG,514,0,0
+1691182222760,6573,FTP PUT Photo,200,OK,TC8: FTP Test 7-14,,true,,0,15813,13,103,ftp://ftp.dlptest.com//input/iti-logo14.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,506,0,0
+1691182223916,5761,FTP PUT Photo,200,OK,TC8: FTP Test 7-19,,true,,0,15813,13,102,ftp://ftp.dlptest.com//input/iti-logo19.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,508,0,0
+1691182227457,2394,FTP PUT Validation,200,OK,TC8: FTP Test 7-5,,true,,15813,0,13,101,ftp://ftp.dlptest.com//input/iti-logo5.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo5.PNG,528,0,0
+1691182223786,6490,FTP PUT Photo,200,OK,TC8: FTP Test 7-17,,true,,0,15813,12,99,ftp://ftp.dlptest.com//input/iti-logo17.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,504,0,0
+1691182228620,2388,FTP PUT Validation,200,OK,TC8: FTP Test 7-8,,true,,15813,0,12,99,ftp://ftp.dlptest.com//input/iti-logo8.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo8.PNG,553,0,0
+1691182228898,2338,FTP PUT Validation,200,OK,TC8: FTP Test 7-9,,true,,15813,0,11,98,ftp://ftp.dlptest.com//input/iti-logo9.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo9.PNG,526,0,0
+1691182222778,8613,FTP PUT Photo,200,OK,TC8: FTP Test 7-16,,true,,0,15813,10,96,ftp://ftp.dlptest.com//input/iti-logo16.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,493,0,0
+1691182229332,2302,FTP PUT Validation,200,OK,TC8: FTP Test 7-14,,true,,15813,0,10,96,ftp://ftp.dlptest.com//input/iti-logo14.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo14.PNG,506,0,0
+1691182221172,10755,FTP PUT Photo,200,OK,TC8: FTP Test 7-12,,true,,0,15813,9,95,ftp://ftp.dlptest.com//input/iti-logo12.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,501,0,0
+1691182229676,2298,FTP PUT Validation,200,OK,TC8: FTP Test 7-19,,true,,15813,0,9,95,ftp://ftp.dlptest.com//input/iti-logo19.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo19.PNG,532,0,0
+1691182223198,8958,FTP PUT Photo,200,OK,TC8: FTP Test 7-18,,true,,0,15813,8,94,ftp://ftp.dlptest.com//input/iti-logo18.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,497,0,0
+1691182224038,8360,FTP PUT Photo,200,OK,TC8: FTP Test 7-20,,true,,0,15813,8,94,ftp://ftp.dlptest.com//input/iti-logo20.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,533,0,0
+1691182222001,10436,FTP PUT Photo,200,OK,TC8: FTP Test 7-13,,true,,0,15813,8,94,ftp://ftp.dlptest.com//input/iti-logo13.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,500,0,0
+1691182230276,2344,FTP PUT Validation,200,OK,TC8: FTP Test 7-17,,true,,15813,0,8,94,ftp://ftp.dlptest.com//input/iti-logo17.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo17.PNG,535,0,0
+1691182220007,13555,FTP PUT Photo,200,OK,TC8: FTP Test 7-7,,true,,0,15813,7,90,ftp://ftp.dlptest.com//input/iti-logo7.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,510,0,0
+1691182231390,2235,FTP PUT Validation,200,OK,TC8: FTP Test 7-16,,true,,15813,0,7,90,ftp://ftp.dlptest.com//input/iti-logo16.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo16.PNG,504,0,0
+1691182220682,12962,FTP PUT Photo,200,OK,TC8: FTP Test 7-10,,true,,0,15813,6,89,ftp://ftp.dlptest.com//input/iti-logo10.PNG (Binary)  <- C:\Material\Performance Project\iti-logo.PNG,466,0,0
+1691182231929,2170,FTP PUT Validation,200,OK,TC8: FTP Test 7-12,,true,,15813,0,6,87,ftp://ftp.dlptest.com//input/iti-logo12.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo12.PNG,496,0,0
+1691182232157,2165,FTP PUT Validation,200,OK,TC8: FTP Test 7-18,,true,,15813,0,5,86,ftp://ftp.dlptest.com//input/iti-logo18.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo18.PNG,497,0,0
+1691182232399,2184,FTP PUT Validation,200,OK,TC8: FTP Test 7-20,,true,,15813,0,4,85,ftp://ftp.dlptest.com//input/iti-logo20.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo20.PNG,469,0,0
+1691182232438,2156,FTP PUT Validation,200,OK,TC8: FTP Test 7-13,,true,,15813,0,3,84,ftp://ftp.dlptest.com//input/iti-logo13.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo13.PNG,507,0,0
+1691182233564,2116,FTP PUT Validation,200,OK,TC8: FTP Test 7-7,,true,,15813,0,2,83,ftp://ftp.dlptest.com//input/iti-logo7.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo7.PNG,468,0,0
+1691182233645,2121,FTP PUT Validation,200,OK,TC8: FTP Test 7-10,,true,,15813,0,1,82,ftp://ftp.dlptest.com//input/iti-logo10.PNG (Binary)  -> C:\Material\Performance Project\Output\iti-logo10.PNG,459,0,0

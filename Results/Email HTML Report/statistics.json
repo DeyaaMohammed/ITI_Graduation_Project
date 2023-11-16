@@ -1,0 +1,34 @@
+{
+  "SMTP Email Test" : {
+    "transaction" : "SMTP Email Test",
+    "sampleCount" : 20,
+    "errorCount" : 4,
+    "errorPct" : 20.0,
+    "meanResTime" : 9145.200000000003,
+    "medianResTime" : 7683.5,
+    "minResTime" : 6909.0,
+    "maxResTime" : 15474.0,
+    "pct1ResTime" : 12470.000000000002,
+    "pct2ResTime" : 15327.449999999997,
+    "pct3ResTime" : 15474.0,
+    "throughput" : 0.053141457245040574,
+    "receivedKBytesPerSec" : 0.009496959644377368,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20,
+    "errorCount" : 4,
+    "errorPct" : 20.0,
+    "meanResTime" : 9145.200000000003,
+    "medianResTime" : 7683.5,
+    "minResTime" : 6909.0,
+    "maxResTime" : 15474.0,
+    "pct1ResTime" : 12470.000000000002,
+    "pct2ResTime" : 15327.449999999997,
+    "pct3ResTime" : 15474.0,
+    "throughput" : 0.053141457245040574,
+    "receivedKBytesPerSec" : 0.009496959644377368,
+    "sentKBytesPerSec" : 0.0
+  }
+}

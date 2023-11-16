@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 80,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 13905.825,
+    "medianResTime" : 9581.0,
+    "minResTime" : 420.0,
+    "maxResTime" : 37736.0,
+    "pct1ResTime" : 36233.700000000004,
+    "pct2ResTime" : 37247.15,
+    "pct3ResTime" : 37736.0,
+    "throughput" : 0.12524854007170477,
+    "receivedKBytesPerSec" : 0.015044502371894227,
+    "sentKBytesPerSec" : 0.0
+  },
+  "MySQL SELECT Request" : {
+    "transaction" : "MySQL SELECT Request",
+    "sampleCount" : 40,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 26840.975000000002,
+    "medianResTime" : 26719.5,
+    "minResTime" : 15839.0,
+    "maxResTime" : 37736.0,
+    "pct1ResTime" : 37234.3,
+    "pct2ResTime" : 37508.3,
+    "pct3ResTime" : 37736.0,
+    "throughput" : 0.06267107244305942,
+    "receivedKBytesPerSec" : 0.014504925946294024,
+    "sentKBytesPerSec" : 0.0
+  },
+  "MySQL INSERT INTO Request" : {
+    "transaction" : "MySQL INSERT INTO Request",
+    "sampleCount" : 40,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 970.6749999999997,
+    "medianResTime" : 563.0,
+    "minResTime" : 420.0,
+    "maxResTime" : 3323.0,
+    "pct1ResTime" : 2720.5,
+    "pct2ResTime" : 3028.7999999999993,
+    "pct3ResTime" : 3323.0,
+    "throughput" : 0.06470848020810246,
+    "receivedKBytesPerSec" : 5.687268768290256E-4,
+    "sentKBytesPerSec" : 0.0
+  }
+}
