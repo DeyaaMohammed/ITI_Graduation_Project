@@ -1,5 +1,5 @@
 # ITI Graduation Project - Performance Testing with JMeter
-Welcome to the repository for my ITI graduation project, where I conducted a comprehensive performance testing on the [OpenCart platform](opencart.abstracta.us) using JMeter. This project features various scenarios to evaluate the platform's responsiveness and stability under different conditions.
+Welcome to the repository for my ITI graduation project, where I conducted a comprehensive performance testing on the [OpenCart platform](https://opencart.abstracta.us/) using JMeter. This project features various scenarios to evaluate the platform's responsiveness and stability under different conditions.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -49,7 +49,7 @@ As part of this project, I focused on the following key aspects:
 - Used JDBC Connection to test the performance of the local SQL server database.
 
 ### 🗄️ MySQL Online Database Performance Testing
-- Used [db4free.net/phpMyAdmin](db4free.net/phpMyAdmin) through JDBC Connection to test the performance of the online MySQL database.
+- Used [db4free.net/phpMyAdmin](https://www.db4free.net/phpMyAdmin/) through JDBC Connection to test the performance of the online MySQL database.
 - Covering reading and writing to the database.
 
 ### 📧 Email Server Performance Testing
